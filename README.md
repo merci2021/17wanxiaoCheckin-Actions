@@ -48,7 +48,7 @@ on:
     - cron: 0 22,4,9 * * *
 ```
 
-**3、当发现报错显示密码错误，还有 * 次后冻结，请立马修改 secrets 的密码再尝试运行**
+**3、当发现报错显示密码错误，还有 * 次后冻结，请立马修改 secrets 的密码再尝试      运行**
 
 **[4、健康打卡问题汇总请前往 wiki](https://github.com/ReaJason/17wanxiaoCheckin-Actions/wiki#%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)**
 
